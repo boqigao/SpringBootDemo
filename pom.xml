@@ -55,6 +55,8 @@
 		<!--<scope>test</scope>-->
 	</dependency>
 
+
+
 	<!-- 这个插件可以将应用打包成一个可执行的jar包 -->
 	<build>
 		<plugins>
